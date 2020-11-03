@@ -1,5 +1,4 @@
-package JAVA;
-
+package quadraticformula;
 
 import java.util.Scanner;
 

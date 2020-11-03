@@ -1,9 +1,7 @@
-package JAVA;
-
 /**
  * 
  */
-
+package datetimeprac;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;

@@ -1,7 +1,7 @@
-package JAVA;
 /**
  * 
  */
+package arraylistprac;
 
 import java.util.ArrayList;
 import java.util.Collections;
